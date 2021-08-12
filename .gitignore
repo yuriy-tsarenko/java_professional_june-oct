@@ -1,0 +1,9 @@
+# Folders
+/.idea/
+/target/
+/logs/
+
+# Files
+/*.log
+/*.iml
+
